@@ -3,7 +3,7 @@
 Highlights:
 
 - Compatible with OpenWRT master and latest LuCI
-- No Lua code, completely write in LuCI's JavaScript API
+- No Lua code, completely written in LuCI's JavaScript API
 
 Useage:
 
