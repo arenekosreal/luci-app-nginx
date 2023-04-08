@@ -1,5 +1,10 @@
 # LuCI interface for Nginx
 
+Highlights:
+
+- Compatible with OpenWRT master and latest LuCI
+- No Lua code, completely write in LuCI's JavaScript API
+
 Useage:
 
 Clone the repo:
